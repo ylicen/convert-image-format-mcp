@@ -1,7 +1,7 @@
 # 图像格式转换 MCP 服务器
 这是一个通过 MCP (Model Context Protocol) 提供图像格式转换功能的服务器。  
 
-## 安装方法
+## 安装方法（windows）
 ```
 {
   "mcpServers": {
